@@ -1,6 +1,6 @@
 # Experimental PCF Control Assets
 
-This project contains a number of assets for us in an experimental PCF control.
+This project contains a number of assets for use in the [View in 3D](https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-component-view-3d) and [View in MR](https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-component-view-mr) components. You can directly use these GLB models in the source property of the components by [formatting the github URL](https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-component-view-3d#load-models-from-a-url).
 
 # Contributing
 
